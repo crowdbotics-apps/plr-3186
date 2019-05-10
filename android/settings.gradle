@@ -1,0 +1,3 @@
+rootProject.name = 'plr_3186'
+
+include ':app'
